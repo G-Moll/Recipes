@@ -1,0 +1,12 @@
+SHOW DATABASES;
+USE recipes_site;
+SHOW TABLES;
+DESCRIBE Users;
+DESCRIBE Recipes;
+DESCRIBE Favorites;
+DESCRIBE Votes;
+
+SELECT * FROM Users;
+SELECT * FROM Recipes;
+SELECT * FROM Favorites;
+SELECT * FROM Votes;
